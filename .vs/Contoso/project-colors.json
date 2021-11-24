@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7b2125f-5815-47b2-b4be-5a320ea250de": {
+      "ProjectGuid": "a7b2125f-5815-47b2-b4be-5a320ea250de",
+      "DisplayName": "Contoso.WebApi",
+      "ColorIndex": 0
+    },
+    "0a11a59d-b541-4ff9-a28e-65546770bc7f": {
+      "ProjectGuid": "0a11a59d-b541-4ff9-a28e-65546770bc7f",
+      "DisplayName": "Contoso.Azure",
+      "ColorIndex": 1
+    },
+    "530f37ac-5612-4fc1-a1e7-f4c9705a7d29": {
+      "ProjectGuid": "530f37ac-5612-4fc1-a1e7-f4c9705a7d29",
+      "DisplayName": "Contoso.Data",
+      "ColorIndex": 2
+    },
+    "4094d55a-9340-4a5c-b177-51cb398ebc35": {
+      "ProjectGuid": "4094d55a-9340-4a5c-b177-51cb398ebc35",
+      "DisplayName": "Contoso.Web",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
