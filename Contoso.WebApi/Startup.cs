@@ -33,7 +33,7 @@ namespace Contoso.WebApi
                 });
             });
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+            services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
 
             // ******************************************
             // TODO #2: Update the code in this block to set the database connection from a Key Vault secret
