@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'contoso-web-6agiaxfaxb6ke'
           slot-name: 'production'
-          publish-profile: ${{ secrets.APP_SERVICE_PUBLISH_PROFIL }}
+          publish-profile: ${{ secrets.APP_SERVICE_PUBLISH_PROFILE }}
           package: .
