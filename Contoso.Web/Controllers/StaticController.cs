@@ -83,7 +83,7 @@ namespace Contoso.Web.Controllers
 
                     return File(bytes, "application/pdf");
                 }
-                catch(Exception ex)
+                catch(Exception)
                 {
                     return NotFound();
                 }
