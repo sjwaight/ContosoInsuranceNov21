@@ -42,4 +42,4 @@ jobs:
           app-name: 'contoso-func-d57mmuunq4u3q'
           slot-name: 'production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ ssecrets.FUNC_APP_SERVICE_PUBLISH_PROFILE }}
+          publish-profile: ${{ secrets.FUNC_APP_SERVICE_PUBLISH_PROFILE }}
